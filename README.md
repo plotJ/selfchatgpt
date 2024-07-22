@@ -44,6 +44,7 @@ To run the application, use the following command:
 
 ```bash
 streamlit run app.py
+```
 Replace `app.py` with the name of your main script file if it is different.
 
 Once the application is running, open your web browser and navigate to [http://localhost:8501](http://localhost:8501) to start chatting with your AI assistant. You can input messages, and the model will respond accordingly.
