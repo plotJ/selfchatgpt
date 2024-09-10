@@ -2,6 +2,8 @@
 
 A Streamlit application that allows users to interact with an AI-powered chatbot using OpenAI's language model (GPT-4). This application can save the chat history, providing a seamless chat experience.
 
+[streamlit.png]
+
 ## Table of Contents
 
 - [Features](#features)
